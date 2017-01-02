@@ -1,2 +1,2 @@
 # GestorImagenes
-Trabajo final Programacion 2 Unizar
+Trabajo final de la asignatura Programacion 2 Unizar
